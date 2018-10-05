@@ -1,4 +1,4 @@
-# Hackaton 2018
+# Rail Map Challenge - 2018
 
 ## Authors:
 
